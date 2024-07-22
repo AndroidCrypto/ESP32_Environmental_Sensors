@@ -18,3 +18,7 @@ Parts of the tutorial:
 For each tutorial you will find a subfolder with all material needed to follow the tutorial.
 
 All available data sheets of the sensors are available in the subfolder "datasheets".
+
+| Sensor Name | Values retrieved | Interface | Address |
+|-------------|:-----------------|:----------|---------|
+| AHT10 | Temperature | I2C | 0x38 |
