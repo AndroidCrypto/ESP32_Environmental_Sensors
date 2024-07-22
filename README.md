@@ -22,6 +22,6 @@ All available data sheets of the sensors are available in the subfolder "datashe
 
 | Sensor Name | Values retrieved | Interface | Address |
 |-------------|:-----------------|:----------|---------|
-| AHT10 | Temperature, Humidity | I2C | 0x38 (alternate 0x39) |
+| AHT10 | Temperature, Humidity | I2C | 0x38 (alternative 0x39) |
 | DHT11 | Temperature, Humidity | GPIO | P 18 |
 | DHT22 | Temperature, Humidity | GPIO | P 18 |
