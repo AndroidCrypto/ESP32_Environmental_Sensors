@@ -13,7 +13,7 @@ Parts of the tutorial:
 - **BME280** Sensor (Temperature, Humidity and Air Pressure): coming soon
 - **BMP280** Sensor (Temperature and Air Pressure): coming soon
 - **BME680** Sensor (Temperature, Humidity, Air Pressure and Air Quality Data): coming soon
-- **DS18B20** Sensor (Temperatur, Waterproof): coming soon
+- **DS18B20** Sensor (Temperatur in Waterproof cover): coming soon
 - **AGS02MA** Sensor (Total volatile organic compounds "TVOC" for Air Quality): coming soon
 
 - Bonus - using ESP-NOW to retrieve the data from remote places: coming soon
