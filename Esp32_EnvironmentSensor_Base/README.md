@@ -1,1 +1,1 @@
-# Esp32_EnvironmentSensor_Base
+# ESP32 Environment Sensor Base Application
