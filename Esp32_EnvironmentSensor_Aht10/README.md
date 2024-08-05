@@ -1,1 +1,2 @@
-# Esp32_EnvironmentSensor_Aht10
+# ESP32 Environment Sensor AHT10 Application
+
