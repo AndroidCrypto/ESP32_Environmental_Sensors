@@ -1,7 +1,7 @@
 # ESP32 Environmental Sensors
 This is the accompanying repository for all source code and additional material for the article series "Environmental Sensor usage with ESP32", published on medium.com.
 
-## NOTE: this is just a stub repository with no content. It will be filled in the next weeks, so please be patient !
+## NOTE: this is a repository that will be updated very frequently in the next weeks, so please be patient if a specific sensor sketch is not available for now !
 
 Parts of the tutorial:
 - Overview:
