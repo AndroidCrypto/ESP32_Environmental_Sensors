@@ -1,4 +1,4 @@
-# ESP32 Environmental Sensor AGS02MA (TVOC)
+# ESP32 Environmental Sensor AGS02MA (TVOC) Application
 
 This is a special sensor for measuring the **air quality** by counting the number of  **Total Volatile Organic Compounds** in the air.
 
