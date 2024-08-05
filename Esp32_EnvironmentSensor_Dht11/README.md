@@ -1,1 +1,1 @@
-# Esp32_EnvironmentSensor_Dht11
+# ESP32 Environment Sensor DHT11 Application
