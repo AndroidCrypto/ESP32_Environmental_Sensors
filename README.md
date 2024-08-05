@@ -6,6 +6,7 @@ This is the accompanying repository for all source code and additional material 
 Parts of the tutorial:
 - Overview:
 - Base Application: coming soon
+- ### Temperature, Humidity or Air Pressure Sensors ###
 - **AHT10** Sensor(Temperature): coming soon
 - **DHT11** Sensor (Temperature and Humidity): coming soon
 - **DHT22** Sensor (Temperature and Humidity): coming soon
@@ -14,6 +15,7 @@ Parts of the tutorial:
 - **BMP280** Sensor (Temperature and Air Pressure): coming soon
 - **BME680** Sensor (Temperature, Humidity, Air Pressure and Air Quality Data): coming soon
 - **DS18B20** Sensor (Temperatur in Waterproof cover): coming soon
+- ### Air Quality Sensors  ###
 - **AGS02MA** Sensor (Total volatile organic compounds "TVOC" for Air Quality): coming soon
 
 - Bonus - using ESP-NOW to retrieve the data from remote places: coming soon
