@@ -1,1 +1,1 @@
-# Esp32_EnvironmentSensor_Dht22
+# ESP32 Environment Sensor DHT22 Application
