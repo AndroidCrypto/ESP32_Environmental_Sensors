@@ -26,10 +26,11 @@ All available data sheets of the sensors are available in the subfolder "datashe
 
 | Sensor Name | Values retrieved | Interface | Address |
 |-------------|:-----------------|:----------|---------|
+| | **Basic Sensors** | |
 | AHT10 | Temperature, Humidity | I2C | 0x38 (alternative 0x39) |
 | BME280 | Temperature, Humidity, Air Pressure | I2C | 0x77 (alternative 0x76) | 
 | DHT11 | Temperature, Humidity | GPIO | P 18 |
 | DHT22 | Temperature, Humidity | GPIO | P 18 |
-| | Specialised Sensors | |
+| | **Specialised Sensors** | |
 | AGS02MA | Total volatile organic compounds "TVOC" | I2C | 0x1A (changable) |
 
