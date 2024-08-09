@@ -31,7 +31,7 @@ ESP32 I2C-Bus Scanner: https://medium.com/@androidcrypto/esp32-i2c-bus-scanner-
 
 ESP32 Add a long term data storage and visualization to your sketch (using ThingSpeak): 
 
-ESP32 Environmental Sensor BME280 measures the Altitude:  (source code: https://github.com/AndroidCrypto/ESP32_Environmental_Sensors/tree/main/Esp32_EnvironmentSensor_BME280_Altitude)
+ESP32 Environmental Sensor BME280 measures the Altitude: https://medium.com/@androidcrypto/esp32-environmental-sensor-bme280-measures-the-altitude-5a847073376a (source code: https://github.com/AndroidCrypto/ESP32_Environmental_Sensors/tree/main/Esp32_EnvironmentSensor_BME280_Altitude)
 
 ## Datasheets
 
