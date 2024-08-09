@@ -10,7 +10,7 @@ Parts of the tutorial:
 - **AHT10** Sensor (Temperature and Humidity): https://medium.com/@androidcrypto/esp32-environmental-sensor-aht10-temperature-humidity-23b27a4b3cf8
 - **AHT20 + BMP280** Sensor module (Temperature, Humidity and Air Pressure): coming soon
 - **DHT11** Sensor (Temperature and Humidity): https://medium.com/@androidcrypto/esp32-environmental-sensor-dht11-temperature-humidity-3d48060e98e0
-- **DHT22** Sensor (Temperature and Humidity): coming soon
+- **DHT22** Sensor (Temperature and Humidity): https://medium.com/@androidcrypto/esp32-environmental-sensor-dht22-temperature-humidity-d5a7d2d9cd57
 - **BME280** Sensor (Temperature, Humidity and Air Pressure): coming soon
 - **BME280** Sensor Bonus Calculate the Altitude of the sensor: coming soon
 - **BMP280** Sensor (Temperature and Air Pressure): coming soon
