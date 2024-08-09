@@ -1,1 +1,1 @@
-# Esp32_EnvironmentSensor AHT20 BME280_ThingSpeak
+# ESP32 Environment Sensor AHT20 + BME280 module Application including ThingSpeak
