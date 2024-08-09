@@ -27,7 +27,7 @@ For each tutorial you will find a subfolder with all material needed to follow t
 
 ## Additional tutorials
 
-ESP32 I2C-Bus Scanner: (source code: https://github.com/AndroidCrypto/ESP32_I2C_Bus_Scanner)
+ESP32 I2C-Bus Scanner: https://medium.com/@androidcrypto/esp32-i2c-bus-scanner-1ac88f6ffd86 (source code: https://github.com/AndroidCrypto/ESP32_I2C_Bus_Scanner)
 
 ESP32 Add a long term data storage and visualization to your sketch (using ThingSpeak): 
 
