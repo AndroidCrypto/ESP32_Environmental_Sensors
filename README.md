@@ -29,7 +29,7 @@ For each tutorial you will find a subfolder with all material needed to follow t
 
 ESP32 I2C-Bus Scanner: https://medium.com/@androidcrypto/esp32-i2c-bus-scanner-1ac88f6ffd86 (source code: https://github.com/AndroidCrypto/ESP32_I2C_Bus_Scanner)
 
-ESP32 Add a long term data storage and visualization to your sketch (using ThingSpeak): 
+ESP32 Add a long term data storage and visualization to your sketch (using ThingSpeak): https://medium.com/@androidcrypto/esp32-add-a-long-term-data-storage-and-visualization-to-your-sketch-using-thingspeak-49bf54f78360
 
 ESP32 Environmental Sensor BME280 measures the Altitude: https://medium.com/@androidcrypto/esp32-environmental-sensor-bme280-measures-the-altitude-5a847073376a (source code: https://github.com/AndroidCrypto/ESP32_Environmental_Sensors/tree/main/Esp32_EnvironmentSensor_BME280_Altitude)
 
