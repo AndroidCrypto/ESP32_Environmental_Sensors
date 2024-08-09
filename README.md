@@ -26,12 +26,14 @@ All available data sheets of the sensors are available in the subfolder "datashe
 
 | Sensor Name | Values retrieved | Interface | Address | Pricing |
 |-------------|:-----------------|:----------|---------|---------|
-| | **Basic Sensors** | |
+| | **Basic Sensors** | | | | EUR |
 | AHT10 | Temperature, Humidity | I2C | 0x38 (alternative 0x39) | 1.40 € |
 | AHT20 + BMP280 | Temperature, Humidity, Air Pressure | I2C | AHT20: 0x38 , BMP280: 0x77 | 1.40 € |
-| BME280 | Temperature, Humidity, Air Pressure | I2C | 0x77 (alternative 0x76) | 
-| DHT11 | Temperature, Humidity | GPIO | P 18 |
-| DHT22 | Temperature, Humidity | GPIO | P 18 |
+| BME280 | Temperature, Humidity, Air Pressure | I2C | 0x77 (alternative 0x76) | 3.40 € | 
+| BMP280 | Temperature, Air Pressure | I2C | 0x76 (alternative 0x77) | 1.70 € | 
+| DHT11 | Temperature, Humidity | GPIO | P 18 | 1.20 € |
+| DHT22 | Temperature, Humidity | GPIO | P 18 | 2.10 € |
+| DS18B20 | Temperature (waterproof) | GPIO | P 18 | 2.00 € (Set) |
 | | **Specialised Sensors** | |
-| AGS02MA | Total volatile organic compounds "TVOC" | I2C | 0x1A (changable) |
+| AGS02MA | Total volatile organic compounds "TVOC" | I2C | 0x1A (changable) | 2.00 € |
 
