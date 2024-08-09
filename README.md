@@ -24,10 +24,11 @@ For each tutorial you will find a subfolder with all material needed to follow t
 
 All available data sheets of the sensors are available in the subfolder "datasheets".
 
-| Sensor Name | Values retrieved | Interface | Address |
-|-------------|:-----------------|:----------|---------|
+| Sensor Name | Values retrieved | Interface | Address | Pricing |
+|-------------|:-----------------|:----------|---------|---------|
 | | **Basic Sensors** | |
-| AHT10 | Temperature, Humidity | I2C | 0x38 (alternative 0x39) |
+| AHT10 | Temperature, Humidity | I2C | 0x38 (alternative 0x39) | 1.40 € |
+| AHT20 + BMP280 | Temperature, Humidity, Air Pressure | I2C | AHT20: 0x38 , BMP280: 0x77 | 1.40 € |
 | BME280 | Temperature, Humidity, Air Pressure | I2C | 0x77 (alternative 0x76) | 
 | DHT11 | Temperature, Humidity | GPIO | P 18 |
 | DHT22 | Temperature, Humidity | GPIO | P 18 |
