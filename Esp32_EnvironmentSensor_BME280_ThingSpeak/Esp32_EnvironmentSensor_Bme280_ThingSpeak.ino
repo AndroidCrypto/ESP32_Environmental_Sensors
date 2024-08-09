@@ -52,8 +52,6 @@ float humidity = -99;
 float pressure = -99;
 float altitude = -99;
 
-unsigned long delayTime;
-
 // ----------------------------------------------------------------
 // vars for "delay" without blocking the loop
 const unsigned long period1s = 1000;    //the value is a number of milliseconds, ie 1 second
