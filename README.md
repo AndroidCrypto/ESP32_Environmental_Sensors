@@ -25,6 +25,16 @@ Parts of the tutorial:
 
 For each tutorial you will find a subfolder with all material needed to follow the tutorial.
 
+## Additional tutorials
+
+ESP32 I2C-Bus Scanner: (source code: https://github.com/AndroidCrypto/ESP32_I2C_Bus_Scanner)
+
+ESP32 Add a long term data storage and visualization to your sketch (using ThingSpeak): 
+
+ESP32 Environmental Sensor BME280 measures the Altitude:  (source code: https://github.com/AndroidCrypto/ESP32_Environmental_Sensors/tree/main/Esp32_EnvironmentSensor_BME280_Altitude)
+
+## Datasheets
+
 All available data sheets of the sensors are available in the subfolder "datasheets".
 
 | Sensor Name | Values retrieved | Interface | Address | Pricing |
