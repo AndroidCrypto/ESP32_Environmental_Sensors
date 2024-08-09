@@ -5,7 +5,8 @@ This is the accompanying repository for all source code and additional material 
 
 Parts of the tutorial:
 - Overview: https://medium.com/@androidcrypto/environmental-sensor-usage-with-esp32-overview-d436343261c3
-- Base Application: coming soon
+- Base Application: https://medium.com/@androidcrypto/esp32-environmental-sensor-base-application-61b08265461f (source code with and without TeamSpeak available)
+  
 ## Temperature, Humidity or Air Pressure Sensors
 - **AHT10** Sensor (Temperature and Humidity): https://medium.com/@androidcrypto/esp32-environmental-sensor-aht10-temperature-humidity-23b27a4b3cf8
 - **AHT20 + BMP280** Sensor module (Temperature, Humidity and Air Pressure): coming soon
