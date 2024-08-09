@@ -18,8 +18,9 @@ Parts of the tutorial:
 - **DS18B20** Sensor (Temperatur in Waterproof cover): coming soon
 ## Air Quality Sensors
 - **AGS02MA** Sensor (Total volatile organic compounds "TVOC" for Air Quality): coming soon
-
-- Bonus - using ESP-NOW to retrieve the data from remote places: coming soon
+- **BME680** Sensor (Indoor Air Quality "IAQ"): coming soon
+ 
+**Bonus - using ESP-NOW** to retrieve the data from remote places: coming soon
 
 For each tutorial you will find a subfolder with all material needed to follow the tutorial.
 
@@ -37,4 +38,6 @@ All available data sheets of the sensors are available in the subfolder "datashe
 | DS18B20 | Temperature (waterproof) | GPIO | P 18 | 2.00 € (Set) |
 | | **Specialised Sensors** | |
 | AGS02MA | Total volatile organic compounds "TVOC" | I2C | 0x1A (changable) | 2.00 € |
+| BME680 | Indoor Air Quality ("IAQ") | I2C | 0x77 (alternative 0x76) | 6.70 € |
+
 
