@@ -7,11 +7,12 @@ Parts of the tutorial:
 - Overview: coming soon
 - Base Application: coming soon
 ## Temperature, Humidity or Air Pressure Sensors
-- **AHT10** Sensor (Temperature): coming soon
+- **AHT10** Sensor (Temperature and Humidity): coming soon
+- **AHT20 + BMP280** Sensor module (Temperature, Humidity and Air Pressure): coming soon
 - **DHT11** Sensor (Temperature and Humidity): coming soon
 - **DHT22** Sensor (Temperature and Humidity): coming soon
-
 - **BME280** Sensor (Temperature, Humidity and Air Pressure): coming soon
+- **BME280** Sensor Bonus Calculate the Altitude of the sensor: coming soon
 - **BMP280** Sensor (Temperature and Air Pressure): coming soon
 - **BME680** Sensor (Temperature, Humidity, Air Pressure and Air Quality Data): coming soon
 - **DS18B20** Sensor (Temperatur in Waterproof cover): coming soon
