@@ -16,7 +16,7 @@ Parts of the tutorial:
 - **BME280** Sensor Bonus Measure the Altitude of the sensor: https://medium.com/@androidcrypto/esp32-environmental-sensor-bme280-measures-the-altitude-5a847073376a
 - **BMP280** Sensor (Temperature and Air Pressure): https://medium.com/@androidcrypto/esp32-environmental-sensor-bmp280-temperature-pressure-9816187aa754
 - **BME680** Sensor (Temperature, Humidity, Air Pressure and Air Quality Data): coming soon
-- **DS18B20** Sensor (Temperature in Waterproof cover): coming soon
+- **DS18B20** Sensor (Temperature in Waterproof cover): https://medium.com/@androidcrypto/esp32-environmental-sensor-ds18b20-temperature-53dda02250a7
 ## Air Quality Sensors
 - **AGS02MA** Sensor (Total volatile organic compounds "TVOC" for Air Quality): coming soon
 - **AGS10** Sensor (Total volatile organic compounds "TVOC" for Air Quality): coming soon
@@ -47,7 +47,7 @@ All available data sheets of the sensors are available in the subfolder "datashe
 | BMP280 | Temperature, Air Pressure | I2C | 0x76 (alternative 0x77) | 1.70 € | 
 | DHT11 | Temperature, Humidity | GPIO | P 18 | 1.20 € |
 | DHT22 | Temperature, Humidity | GPIO | P 18 | 2.10 € |
-| DS18B20 | Temperature (waterproof) | GPIO | P 18 | 2.00 € (Set) |
+| DS18B20 | Temperature (waterproof) | GPIO | P 26 | 2.00 € (Set) |
 | | **Specialised Sensors** | |
 | AGS02MA | Total volatile organic compounds "TVOC" | I2C | 0x1A (changable) | 2.00 € |
 | AGS10 | Total volatile organic compounds "TVOC" | I2C | 0x1A (changable) | 2.70 € |
