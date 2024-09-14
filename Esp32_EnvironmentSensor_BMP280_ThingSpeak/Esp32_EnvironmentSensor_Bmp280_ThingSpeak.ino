@@ -29,23 +29,12 @@ SCL      P 22
 SDA      P 21 
 */
 
-
 //#include <Wire.h>
-#include <Adafruit_Sensor.h>  // https://github.com/adafruit/Adafruit_Sensor
-#include <Adafruit_BMP280.h>  // https://github.com/adafruit/Adafruit_BMP280_Library
-
-/*#include <SPI.h>
-#define BME_SCK 18
-#define BME_MISO 19
-#define BME_MOSI 23
-#define BME_CS 5*/
 
 const String SENSOR_NAME = "BMP280 T & P";  // don't extend the string with more than 14 characters !
 #define SEALEVELPRESSURE_HPA (1013.25)
 
 Adafruit_BMP280 bmp;  // I2C
-//Adafruit_BME280 bme(BME_CS); // hardware SPI
-//Adafruit_BME280 bme(BME_CS, BME_MOSI, BME_MISO, BME_SCK); // software SPI
 
 float temperature = -99;
 float humidity = -1; // not in use, just a dummy
@@ -242,7 +231,6 @@ void setup() {
   displayBlockCounter = 0;
 }
 
-
 void loop() {
 
   currentMillis = millis();
@@ -260,7 +248,6 @@ void loop() {
       displayValues();
       displayBlockCounter = 0;
     }
-
     previousMillisDisplay = currentMillis;
   }
 
